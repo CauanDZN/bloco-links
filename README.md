@@ -1,6 +1,9 @@
 # Bloco de links
 
 Um bloco de notas online com uma única função: cole um link, dê espaço (ou Enter) e ele vira clicável.
+
+**Site:** https://bloco-links.vercel.app
+
 O texto fica salvo no navegador (`localStorage`), então volta quando você reabre a página.
 
 Clicar num link abre na **mesma aba** (de propósito: navegadores embutidos, como o do Rave, costumam ignorar `target="_blank"`).
